@@ -1,0 +1,10 @@
+
+		Name = Priya
+		Mob No = 8098768905
+		email = patilprachi9991@gmail.com
+		sub1 = 9
+		sub2 = 9
+		sub3 = 9
+		sub4 = 9
+		sub5 = 9
+		total marks = 45
